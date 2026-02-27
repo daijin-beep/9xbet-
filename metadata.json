@@ -1,0 +1,8 @@
+{
+  "name": "Casino Game Lobby",
+  "description": "A feature-rich casino game lobby with advanced payment logic, reward management, and KOL affiliate systems. Optimized for user trust and high-conversion UX.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": "可参加的活动不支持选择，仅展示，预计到账要展示汇率，我们最终到账的是卢布，Bonus和现金卷都要展示单位。优化“搜索结果页”，点击厂商，从底部向上弹出半屏弹窗，搜索结果加个标题“搜索结果”。调整下搜索结果页排版，将搜索框和品牌筛选放到一排，搜索框占2/3，品牌筛选占1/3。补充产品全链路的使用文本。"
+}
